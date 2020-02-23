@@ -14,7 +14,7 @@ Install the missing dependencies using pip
 
 ## Usage
 
-Once you have your dependencies installed via pip, run the script in terminal via
+Once you have your dependencies installed via pip, run the script in terminal via-
 
 python recommender.py
 
